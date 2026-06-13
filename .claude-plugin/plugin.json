@@ -1,0 +1,19 @@
+{
+  "name": "coze-skills",
+  "version": "1.0.0",
+  "description": "扣子 (Coze) AIGC skills — ASR, TTS, image generation, voice cloning, web fetch & search",
+  "author": {
+    "name": "AIGC Skills Community"
+  },
+  "homepage": "https://github.com/full-aigc-skills/coze-skills",
+  "repository": "https://github.com/full-aigc-skills/coze-skills",
+  "source": "./",
+  "skills": [
+    "./skills/coze-asr",
+    "./skills/coze-image-gen",
+    "./skills/coze-tts",
+    "./skills/coze-voice-gen",
+    "./skills/coze-web-fetch",
+    "./skills/coze-web-search"
+  ]
+}
